@@ -1,0 +1,957 @@
+label
+{
+font-weight:normal;}
+.productcheckout .totopshow 
+{
+display: block;
+}
+.productcheckoutt .ttr_footer_bottom_footer_inner,.productcheckout #ttr_footer_top_for_widgets 
+{
+position:relative;
+margin:0 auto;
+}
+.productcheckout .ttr_header_logo img 
+{
+vertical-align:middle;}
+.productcheckout .ttr_header_logo_text 
+{
+display:inline-block;vertical-align:middle;}
+.productcheckout .ttr_menu_logo img 
+{
+vertical-align:middle;}
+.productcheckout .ttr_menu_logo_text 
+{
+display:inline-block;vertical-align:middle;}
+.productcheckout header#ttr_header 
+{
+box-sizing:content-box;
+
+}
+.productcheckout nav#ttr_menu 
+{
+max-width:100%;
+
+}
+.dropdown-backdrop
+{
+position:relative;
+}
+.productcheckout .container 
+{
+overflow:visible!important;
+}
+.productcheckout #ttr_footer_designed_by_links #ttr_footer_designed_by 
+{
+display:inline-block;
+}
+.productcheckout #ttr_footer_designed_by_links a ,.productcheckout #ttr_footer_designed_by_links a:link,.productcheckout #ttr_footer_designed_by_links a:visited,.productcheckout #ttr_footer_designed_by_links a:hover 
+{
+display:inline-block;}
+.productcheckout.additional-images
+{
+	display: table;
+	margin: 10px auto;
+}
+.productcheckout #userform > fieldset  
+{
+display: table; 
+}
+.productcheckouttable.user-details  
+{ 
+	width: auto !important; 
+}
+.productcheckout.fancybox-title-inside 
+{
+margin-left: 0 !important; 
+}
+@media only screen and (max-width: 767px)
+{
+ .ttr_prochec_Heading td 
+	{
+		text-align: center;
+	}
+	/*responsive table content*/
+	
+	/*new*/
+	
+	
+}
+.ttr_prochec_row_1 td 
+{
+text-align: left;
+}
+.cart_quantity.text-center input
+{
+text-align: center;
+}
+#quantity_wanted_p input
+{
+text-align: center;
+}
+#one
+{
+height: 50px;
+}
+.corner
+{
+width: 20%;
+position: relative;
+border:1px solid 42AF54;
+}
+.corner:after, .corner:before
+{
+content: "";
+position: absolute;
+left: 100%;
+width: 31px;
+}
+.corner:before
+{
+top: 0;
+bottom:0;
+}
+.first
+{z-index:5;
+}
+.second
+{z-index:4;
+}
+.third
+{z-index:3;
+}
+.four
+{z-index:2;
+}
+.last
+{z-index:1;
+}
+.corner:after
+{
+bottom: 0;
+background: url(../images/PSFGreen.png);
+top:0;
+}
+.cornerGrey:before
+{
+top: 0;
+bottom:0;
+background: url(../images/PSBGrey.png);
+}
+.cornerGrey:after
+{
+bottom: 0;
+background: url(../images/PSFGrey.png);
+top:0;
+}
+#total_price_container span
+{
+text-align:right !important;
+}
+#total_price_container p
+{
+text-align:right !important;
+}
+.prochec_table_footer td
+{
+text-align:right !important;
+}
+.ttr_prochec_steps_border
+{
+list-style:none !important;
+}
+.ttr_prochec_table_background
+{
+border-collapse:separate;
+}
+.cart_last_product
+{
+display: none;
+}
+#order_step li
+{
+text-indent:15%;
+}
+/*#oneGrey
+{
+height: 50px;
+}
+.cornerGrey
+{
+width: 20%;
+position: relative;
+border:1px solid #CACACA;
+}
+.cornerGrey:after, .cornerGrey:before
+{
+content: "";
+position: absolute;
+left: 100%;
+width: 31px;
+}
+#oneGreyLast
+{
+height: 50px;
+}
+.cornerGreyLast
+{
+width: 20%;
+position: relative;
+border:1px solid #CACACA;
+}
+.corner:after
+{
+background:none;
+}
+.corner
+{
+width:100%;margin-bottom:2px;
+}
+.cornerGrey:after
+{
+background:none;
+}
+.cornerGrey:before
+{
+background:none;
+}
+.cornerGrey
+{
+width:100%;margin-bottom:2px;margin-top:2px
+}
+.cornerGreyLast
+{
+width:100%;margin-top:2px
+}
+.corner p
+{
+padding-top:10px;
+padding-bottom:10px;
+}
+.cornerGrey p
+{
+padding-top:10px;
+padding-bottom:10px;
+}
+.cornerGreyLast p
+{
+padding-top:10px;
+padding-bottom:10px;
+}
+#one
+{
+height: 35px;
+}
+#oneGrey
+{
+height: 35px;
+}
+#oneGreyLast
+{
+height: 35px;
+}*/
+@media only screen
+and (max-width : 767px)
+{
+	.ttr_prochec_Heading
+	{
+	display:none;
+	}
+}
+
+.form-list label 
+{
+float:left;
+margin-right:6px;
+position:relative;
+}
+.productcheckout .ttr_header_links
+{
+position:absolute;
+}
+.productcheckout header .form-search
+{
+top:73px;
+width:19%;
+position:absolute;
+left: 33.33%;
+}
+.productcheckout header .cms-links
+{
+top:115px;
+position:absolute;
+left: 50.67%;
+}
+.productcheckout .ttr_footer_links
+{
+top:3px;
+position:absolute;
+left: 0%;
+}
+
+.productcheckout img.aligncenter
+{
+margin-left:auto;
+margin-right:auto;
+}
+span.addtocart-button, .ttr_article span.addtocart-button-disabled
+{
+	width:auto;
+}
+.contentpagetitle
+{
+	display:block;
+}
+#comment, .customer-comment
+{
+width:95%;
+}
+#ttr_sidebar_left ul.vmproduct li
+{
+list-style:none outside none;
+}
+#ttr_sidebar_left ul.vmmanufacturer li
+{
+list-style:none outside none;
+}
+#ttr_sidebar_right ul.vmproduct li
+{
+list-style:none outside none;
+margin-bottom:5px;
+}
+#ttr_sidebar_right ul.vmmanufacturer li
+{
+list-style:none outside none;
+margin-bottom:5px;
+}
+.ttr_block .VmClose div, .ttr_block .VmOpen div
+ { 
+display:inline;
+} 
+a.product-details, a.details, div.details
+{
+padding:3px;
+}
+.control-buttons
+{
+margin-bottom:5px;
+}
+@media only screenand (min-width : 150px)and (max-width : 767px)  
+{ 
+ table #cart_summary, #cart_summary thead, #cart_summary tbody, #cart_summary tfoot, #cart_summary thead tr, #cart_summary tbody tr, #cart_summary tfoot tr, #cart_summary thead tr th, #cart_summary tbody tr td, #cart_summary tfoot tr td 
+ { 
+display: block; 
+ } 
+table #cart_summary span.cart-images img 
+{ 
+float:none; 
+vertical-align: top; 
+} 
+table #cart_summary input.ttr_prochec_price
+ { 
+width:85%; 
+} 
+} 
+.grid > li 
+ { 
+list-style-type:none; 
+ } 
+.customer-reviews  
+{ 
+ margin:5px 0 5px; 
+ } 
+.productcheckout .postedon
+{
+display: none;
+}
+.productcheckout .open > .child 
+ {
+display: block;
+
+}
+.productcheckout .nav.navbar-nav li.ttr_menu_items_parent a 
+{
+margin-bottom:0;
+
+}
+.productcheckout ul.ttr_menu_items 
+{
+padding-top:0 !important;
+
+}
+.navbar-nav ul.dropdown-menu .sub-menu 
+{
+left: 0 !important;
+position: static !important;
+top: 0 !important;
+float:none !important;
+}
+.productcheckout .ttr_vmenu_items .open .child {
+float: none;
+position: static;
+list-style:none outside none;
+
+}
+.productcheckout #ttr_menu .navbar-toggle
+{
+border-radius: 0;
+padding: 9px 7px;
+margin-right:3px;
+float:right;
+
+}
+.productcheckout #ttr_menu .navbar-toggle:hover,.productcheckout #ttr_menu .navbar-toggle:focus
+{
+margin-right:3px;
+float:right;
+
+}
+.productcheckout #ttr_menu.navbar
+{
+height:auto !important;
+
+}
+.productcheckout #ttr_menu .navbar-nav
+{
+margin:0;
+}
+
+div.vm-shipment-plugin-single div.ttr_radio, div.vm-payment-plugin-single div.ttr_radio
+{
+	display: inline-block;    
+    vertical-align: middle;
+    margin-right: 5px;
+    float: none;
+}
+
+.vm-payment-plugin-single label, .vm-shipment-plugin-single label 
+{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+}
+.vm-products-horizon .addtocart-area, p.product_s_desc 
+{
+    min-height: auto;
+    height:auto;
+}
+div.product.vm-products-horizon
+{
+	border: medium none;
+}
+
+div#fancybox-wrap 
+{
+    padding: 15px;
+}
+.Checkout form#adminForm div#ui-tabs div#tab-1 fieldset table.adminForm.user-details td.key
+{
+    width: 30%;
+    padding: 0 10px;
+}
+@media only screen and (min-width : 768px) and (max-width:991px)  
+{
+	form#userForm fieldset.forgotpassword
+	{
+		float:right;
+	}
+}
+form#userForm fieldset.forgotpassword legend
+{
+    float: left;
+    border: none;
+}
+div.cart.tos span.cart.tos 
+{
+    display: inline;
+}
+div.category-view div.category .spacer
+{
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+div.spaceStyle.vm-orders-order table tbody tr:last-child td:first-child table tr td
+{
+  border-radius: 0;
+}
+div.spaceStyle.vm-orders-order table tbody tr:last-child td:last-child table tr td 
+{
+  border-radius: 0;
+}
+table.adminForm.user-details td input 
+{
+    margin-bottom: 10px;
+}
+.vm-products-horizon .addtocart-bar.vm-products-horizon div.title 
+{
+    float: none;
+}
+fieldset table.adminForm.user-details td input 
+{
+	width: 100%;
+	margin-bottom: 0;
+}
+div.postcontent.product-shop-margin div.product-price.price 
+{
+    min-height: auto;
+}
+.form-horizontal .control-label 
+{
+	text-align: left;
+}
+form#modules-form.form-validate input
+{
+	width: auto;
+}
+.btn#jform_publish_up_img, .btn#jform_publish_down_img
+{
+	padding:0;
+	border: none;
+	margin-left:3px;
+}
+form#modules-form.form-validate hr
+{
+    margin: 10px 0 !important;
+}
+#jformposition_chzn,#jform_access_chzn,#jform_ordering_chzn,#jform_language_chzn
+{
+	width: 220px !important;
+}
+fieldset#jform_published.radio label, fieldset#jform_showtitle.radio label 
+{
+	vertical-align: top;
+    margin-right: 20px;
+    padding-left: 0;
+}
+fieldset#jform_published.radio div.ttr_radio, fieldset#jform_showtitle.radio div.ttr_radio
+{
+	float: none;
+	display: inline;
+}
+form#com-form-login div.col-lg-6.col-md-6.col-sm-12.col-xs-12.forgotpassword 
+{
+    margin: 10px 0;
+}
+#com-form-login-remember .ttr_checkbox
+{
+	vertical-align: middle;
+	margin: 0 5px;
+}
+.output-shipto .ttr_checkbox
+{
+	vertical-align: middle;
+	margin: 0 5px;
+}
+.vm-wrap.vm-order-done.payment_shipment_content.ttr_prochec_table_background
+{
+    padding: 15px 20px;
+}
+.vm-wrap.vm-order-done.payment_shipment_content.ttr_prochec_table_background > form 
+{
+    margin-top: 15px;
+}
+.prochec_img .cart-images 
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+form#checkoutForm td.prochec_quant .btn-sm 
+{
+    margin: 0;
+}
+.vm-products-horizon .addtocart-bar 
+{
+	float: none;
+}
+.ship_to_content 
+{
+    padding: 10px;
+}
+input.quantity-input.js-recalculate[type="text"]:focus
+{
+	text-align:center;
+}
+/*Modified link state order */
+span.quantity-box input.quantity-input:hover, span.quantity-box input.quantity-input:focus
+{
+	text-align:center;
+}
+div.vm-orders-information #ui-tabs .tabs 
+{
+    padding: 16px 0;
+}
+.vm-order-done a.btn 
+{
+  margin: 3px 0;
+}
+.Checkout div#ui-tabs div#tab-1.dyn-tabs.tabs 
+{
+    overflow: auto;
+}
+form#adminForm div#ui-tabs table.admintable tr td 
+{
+    background: transparent;
+}
+form#adminForm div#ui-tabs table.admintable 
+{
+    border: none;
+	width: 100%;
+}
+form#adminForm div#ui-tabs table.admintable tr td fieldset legend 
+{
+    border: none;
+}
+form#adminForm div#ui-tabs table.admintable tr td 
+{
+    background: transparent;
+}
+form#adminForm div#ui-tabs table.admintable 
+{
+    border: none;
+	width: 100%;
+}
+form#adminForm div#ui-tabs table.admintable tr td fieldset legend 
+{
+    border: none;
+}
+form#adminForm #ui-tabs div#tab-2 
+{
+    width: 100%;
+}
+form#adminForm div#ui-tabs table.admintable tr:first-child td 
+{
+    width: 49%;
+}
+.edit_shipto_address, #userForm fieldset,#adminForm fieldset.floatleft, #adminForm fieldset.floatright
+{
+	padding:10px;
+	margin-bottom: 10px;
+}
+form#shipmentForm .buttonBar-right, form#paymentForm .buttonBar-right, td.single_page_checkout .buttonBar-right
+{
+    padding: 15px 0;
+    display: inline-block;
+    float: none;   
+    vertical-align: top;
+}
+div.productdetails-view div.product-price.price
+{
+    text-align: left;
+} 
+.control-group 
+{
+    padding: 5px;
+}
+.control-label, .controls 
+{
+    display: inline; 
+}
+.main-image 
+{
+    text-align: left;
+}
+.payment_shipment_content 
+{
+    display: inline-block;
+    width: 100%;
+}
+@media only screen and (max-width : 767px)
+{
+	#cart-view.cart-view form.inline table td 
+	{
+	    vertical-align: top;
+	    display: inline-block;
+	}
+	
+	#cart-view.cart-view form.inline table td:not(:first-child) 
+	{    	
+    	width: 44%;
+    	margin-top: 20px;
+	}
+	
+	.payment_shipment_content 
+	{
+	    display: block;
+	    width: 100%;
+	}
+	#userForm fieldset, .billto-shipto .width50, #adminForm fieldset.floatleft, 
+	#adminForm fieldset.floatright, .Checkout div.vm-orders-order table tr td
+	{
+	    width: 100%;	    
+	}
+	#userForm fieldset, #adminForm fieldset.floatleft, #adminForm fieldset.floatright 
+	{
+	    margin-top: 20px;	    
+	}
+	#com-form-login-remember .btn 
+	{
+    	display: block;
+	}
+	/* CSS for data titles used as table head */
+	.Checkout div.vm-orders-order table tr, .Checkout div.vm-orders-items div#tab-1 table tbody tr,
+	.Checkout div.vm-orders-items div#tab-2 table tbody tr, .Checkout div.vm-orders-list div#editcell table tbody tr,
+	.Checkout div#tab-3 div#editcell table tr
+	{
+		width:100%;	
+		display: flex;	
+		flex-wrap: wrap;
+	}	
+		
+	/* CSS for data titles used as table head */
+	.Checkout div.vm-orders-order table tr:not(:last-child):not(:nth-last-child(2)) td, .Checkout div.vm-orders-items div#tab-1 table tr td,
+	.Checkout div.vm-orders-items div#tab-2 table tr td, .Checkout div.vm-orders-list div#editcell table tr td,
+	.Checkout div#tab-3 div#editcell table tr td, .Checkout div.vm-orders-order table tr:last-child td table tr td
+	{
+	    text-align: center;
+	    width: 50%;
+	    align-items: flex-start;
+	    display: flex;
+	    flex-wrap: wrap;
+	    justify-content: center;  
+	     border-radius: 0; 
+	}	
+
+	.Checkout div.vm-orders-items div#tab-1 table tr td,.Checkout div.vm-orders-items div#tab-2 table tr td, .Checkout div.vm-orders-list div#editcell table tr td, .Checkout div#tab-3 div#editcell table tr td
+	{
+		padding: 0;
+	}
+	
+	.Checkout div.vm-orders-order table tr td table tr td, .Checkout div.vm-orders-order table tr:nth-last-child(2) td,
+	.Checkout div.vm-orders-items div#tab-2 table tr td:last-child, .Checkout div#tab-3 div#editcell table tr td:last-child , 
+	.Checkout form#adminForm div#ui-tabs table.admintable tr td, .Checkout form#adminForm div#ui-tabs div#tab-1 table.adminForm.user-details tr td
+	{
+    	width: 100%;
+	}
+	div.vm-orders-items div#tab-1 table tr th, div.vm-orders-items div#tab-2 table tr th, div.vm-orders-list div#editcell table tr th,div#tab-3 div#editcell table tr th
+	{
+		display: none;
+	}
+	.Checkout div.vm-orders-list div#editcell table tr td::before,.Checkout div.vm-orders-items div#tab-1 table tr td::before,.Checkout div.vm-orders-items div#tab-2 table tr td::before,.Checkout div#tab-3 div#editcell table tr td::before
+	{
+		display: block;
+		width: 100%;
+		text-align: center;		
+		margin-bottom: 15px;
+    	padding: 10px 0;
+	}
+	
+	.Checkout div.vm-orders-order table tr:last-child td table tr td:last-child
+	{
+		border-left: 0;
+	}
+	
+	.Checkout div.spaceStyle.vm-orders-order table tr:last-child td:nth-last-child(2), .Checkout div.spaceStyle.vm-orders-order table tr:last-child td table tr:last-child td:last-child
+	{
+		border-bottom-left-radius: 0;
+	}
+	/* Data-titles for list-order table */
+	.Checkout div.vm-orders-list div#editcell table tr td:first-child::before,.Checkout div#tab-3 div#editcell table tr td:first-child::before
+	{
+		content: "Order Number";		
+	}	
+	.Checkout div.vm-orders-list div#editcell table tr td:nth-child(2)::before,.Checkout div#tab-3 div#editcell table tr td:nth-child(2)::before
+	{
+		content: "Order Date";		
+	}
+	.Checkout div.vm-orders-list div#editcell table tr td:nth-child(3)::before,.Checkout div#tab-3 div#editcell table tr td:nth-child(4)::before
+	{
+		content: "Order Status";		
+	}
+	.Checkout div#tab-3 div#editcell table tr td:nth-child(3)::before
+	{
+		content: "Last Modified";
+	}
+	.Checkout div.vm-orders-list div#editcell table tr td:nth-child(4)::before,.Checkout div#tab-3 div#editcell table tr td:nth-child(5)::before
+	{
+		content: "Total";		
+	}
+	/* Data-titles for order-items table */
+	.Checkout div.vm-orders-items div#tab-1 table tr td:first-child::before
+	{	
+		content: "SKU";
+	}
+	.Checkout div.vm-orders-items div#tab-1 table tr td:nth-child(2)::before
+	{
+		content: "Product Name";
+	}	
+	.Checkout div.vm-orders-items div#tab-1 table tr td:nth-child(3)::before
+	{
+		content: "Product status"; 
+	}	
+	.Checkout div.vm-orders-items div#tab-1 table tr td:nth-child(4)::before	
+	{
+		content: "Price";
+	}		
+	.Checkout div.vm-orders-items div#tab-1 table tr td:nth-child(5)::before
+	{
+		content: "Qty";	
+	} 	
+	.Checkout div.vm-orders-items div#tab-1 table tr td:nth-child(6)::before
+	{
+		content: "Tax";
+	}		
+	.Checkout div.vm-orders-items div#tab-1 table tr td:nth-child(7)::before
+	{
+		content: "Discount";
+	}	
+	.Checkout div.vm-orders-items div#tab-1 table tr td:nth-child(8)::before
+	{
+		content: "Total";
+	}
+	/* Data-titles for order-history table */
+	.Checkout div.vm-orders-items div#tab-2 table tr td:first-child::before
+	{
+		content: "Date";		
+	}	
+	.Checkout div.vm-orders-items div#tab-2 table tr td:nth-child(2)::before
+	{
+		content: "Order Status";		
+	}
+	.Checkout div.vm-orders-items div#tab-2 table tr td:nth-child(3)::before
+	{
+		content: "Comment";		
+	}
+
+	.single-line hr 
+	{
+	    margin: 7px 0;
+	}
+	.Checkout div.vm-orders-list div#editcell table tr td,.Checkout div.vm-orders-items div#tab-1 table tr td,.Checkout div.vm-orders-items div#tab-2 table tr td
+	{
+		padding-bottom: 10px;
+	}	 	 		
+}
+.control-buttons #reg_text 
+{
+  margin: 20px 0;
+}
+.product-field-display .chzn-container-single-nosearch, .product-field-display .chzn-container.chzn-container-single
+{
+    width: auto !important;
+}
+.product-fields-title-wrapper 
+{
+    margin: 8px 0 5px; 
+}
+.quantity-box .quantity-input, .cart-summary .quantity-input 
+{
+    height: 34px;
+    margin-bottom: 0;
+    padding: 1px;
+    text-align: center;
+    width: 34px;
+}
+div#virtuemart_country_id_field_chzn, div#virtuemart_state_id_field_chzn, div#shipto_virtuemart_country_id_field_chzn, 
+div#shipto_virtuemart_state_id_field_chzn, div#title_chzn , div#virtuemart_shoppergroup_id_chzn, 
+div#tab-1 table.user-details input, div#vendor_currency_chzn
+{
+	width:100% !important; 	
+}
+form#askform
+{
+	padding: 10px;
+}
+a.btn.jmodedit {
+    border: medium none;
+}
+a.btn.jmodedit span.icon-edit {
+    color: black;
+}
+.cart-view .vm-cart-header .ttr_page_title 
+{
+    padding: 0;
+}
+.toggle-editor .btn 
+{
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    color: #000000;
+}
+.vm-pagination.vm-pagination-bottom {
+    width: 100%;
+}
+.vm-page-counter 
+{
+    display: none;   
+}
+.pagination {
+    vertical-align: middle;
+}
+.orderby-displaynumber .display-number
+{
+    clear: both;
+    text-align: left;
+}
+@media only screen and (min-width: 768px)
+{
+.vm-order-list, .vm-pagination.vm-pagination-top, .display-number {
+width: auto;
+}
+.vm-order-list, .vm-pagination-top, .display-number {
+display: table-cell;
+float: none;
+vertical-align: middle;
+}
+.vm-pagination.vm-pagination-top {
+display: inline-block;
+}
+.orderby-displaynumber {
+display: table;
+text-align: center;
+width: 100%;
+}
+.vm-order-list {
+text-align: left;
+}
+}
+#ui-tabs .dyn-tabs 
+{
+    overflow: none;
+}
+fieldset table.adminForm.user-details > tbody > tr > td, div[title='Shopper Information'] table.adminForm.user-details td
+{
+padding-right: 10px;
+}
+/*Modified link state order */
+.quantity-controls.btn.btn-default, .quantity-controls.btn.btn-default:hover, .quantity-controls.btn.btn-default:active {
+    font-size: 21px;
+    padding: 0 10px;
+}
+.spaceStyle.vm-orders-items table, .spaceStyle.vm-orders-order table {
+    margin: 0;
+}
+.spaceStyle.vm-orders-order table tr td table 
+{
+    width: 100%;
+}
+.spaceStyle.vm-orders-order table tr td table td
+{
+    width: 50%;
+}
+.spaceStyle.vm-orders-items table .product-field-type-B, .spaceStyle.vm-orders-items table .product-field-type-S, .spaceStyle.vm-orders-items table .product-field-type-I 
+{
+    float: none;
+    text-align: center;
+}
+#checkoutForm .Checkout-button-top
+{
+margin-bottom: 5px;
+}
+.Checkout table#cart_summary thead tr.ttr_prochec_Heading th
+{
+text-align:center;
+}
+#cart-view.cart-view form.inline table td 
+{
+    background: transparent;
+}
+#checkoutForm #order-detail-content table.table {
+    margin-left: 0;
+    margin-right: 0;
+}
+.Checkout div.spaceStyle.vm-orders-order table tr:last-child td table tr td, .CheckoutStep
+{
+    text-align: center;
+}
+.product-field-type-A .product-field-display, .product-field-type-S .product-field-display, .product-field-type-S .product-field-desc
+{
+	text-align: left;
+}

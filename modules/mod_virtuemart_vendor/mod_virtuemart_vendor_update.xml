@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>VM - Vendor Module</name>
+        <description>Shows impressum, contact, about by using the vendor data</description>
+        <element>mod_virtuemart_vendor</element>
+        <type>module</type>
+        <version>${PHING.VERSION}</version>
+        <infourl title="VirtueMart Extensions mod_virtuemart_vendor">http://extensions.virtuemart.net/my-orders</infourl>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>The VirtueMart Team</maintainer>
+        <maintainerurl>https://extensions.virtuemart.net</maintainerurl>
+        <targetplatform name="joomla" version=".*" />
+    </update>
+</updates>
